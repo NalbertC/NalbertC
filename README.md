@@ -1,4 +1,4 @@
-### Olá! Eu sou o Nalberth👋
+### Olá! Eu sou o Nalberth <img alt="maozinha" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 - 🔭 Trabalho como Bolsista programador no LABEX - Laboratório de programação extrema ...
 - 🌱 Estou me aprofundando em desenvolvimento web ...
@@ -11,7 +11,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NalbertC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalbertC&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    
        
 ##
           
