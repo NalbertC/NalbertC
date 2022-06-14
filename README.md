@@ -39,5 +39,13 @@
   ##  
     
 ![Snake animation](https://github.com/NalbertC/NalbertC/blob/output/github-contribution-grid-snake.svg)
+  
+    
+   
+  ##
+    
+   ## Minhas redes
+    
+[![(instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castro.nalberth_00) [![(instagram)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/nalberth-castro-1969a3239)
     
     
