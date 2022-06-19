@@ -2,7 +2,7 @@
 
 - 🔭 Sou bolsista e programador no <b>LABEX - LABoratório de programação EXtrema</b> ...
 - 🌱 Estou me aprofundando em Desenvolvimento Web ...
-- 😄 Meu sonho é ser Full Stack ...
+- 😄 Meu objetivo é ser Full Stack ...
 
 ##
 
@@ -13,18 +13,18 @@
 </div>
        
 ##
-          
+   
+## Tecnologias trabalhadas no meu dia a dia 
 
 <div style="display: inline_block"><br>
-    
-  <img align="center" alt="Nalberth-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <a href="https://github.com/NalbertC/codigos-ED-em-C"><img align="center" alt="Nalberth-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>   
   <!--   <img align="center" alt="Nalberth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <!--   <img align="center" alt="Nalberth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Nalberth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nalberth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nalberth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nalberth-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Nalberth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://github.com/NalbertC/desenvolvimento-web"><img align="center" alt="Nalberth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/NalbertC/layout-site"><img align="center" alt="Nalberth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/NalbertC/js-applications"><img align="center" alt="Nalberth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://github.com/NalbertC/node.js"><img align="center" alt="Nalberth-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
+  <a href="https://github.com/NalbertC/python"><img align="center" alt="Nalberth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <img align="center" alt="Nalberth-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Nalberth-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
     
@@ -42,12 +42,14 @@
    -->
   ## 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=00D400FD&vCenter=true&lines=Obrigado+pela+visita+%F0%9F%91%8D)](https://git.io/typing-svg)
+    
   ##  
        
-<div align="center" style="display: inline_block">
- 
-<a href="https://instagram.com/castro.nalberth_00"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a>
-
+<div align="center" style="display: inline_block; font-size: 8px">
+Minhas redes:   
+    
+<a href="https://instagram.com/castro.nalberth_00"><img height="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a> 
+<a href="http://ca.linkedin.com/in/nalberth-castro-1969a3239"><img height="30" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1655656906~hmac=834de3ef7f0a02bae90ae95b0a35063c"></a>
     
 </div>
     
