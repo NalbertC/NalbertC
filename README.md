@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nalberth <img alt="maozinha" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-- 🔭 Trabalho como Bolsista programador no LABEX - Laboratório de programação extrema ...
-- 🌱 Estou me aprofundando em desenvolvimento web ...
-- 😄 Futuro full-stack ...
+- 🔭 Sou bolsista e programador no <b>LABEX - LABoratório de programação EXtrema</b> ...
+- 🌱 Estou me aprofundando em Desenvolvimento Web ...
+- 😄 Meu sonho é ser Full Stack ...
 
 ##
 
@@ -26,25 +26,23 @@
   <img align="center" alt="Nalberth-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Nalberth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nalberth-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Nalberth-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!--   <img align="center" alt="Nalberth-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-<!--   <img align="center" alt="Nalberth-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
-          
- 
-          
+  <img align="center" alt="Nalberth-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
     
 </div>
     
   ##  
     
-![Snake animation](https://github.com/NalbertC/NalbertC/blob/output/github-contribution-grid-snake.svg)
-  
-    
+![Snake animation](https://github.com/NalbertC/NalbertC/blob/output/github-contribution-grid-snake.svg)   
    
   ##
     
-   ## Minhas redes
+   ## Siga minhas redes sociais
     
 [![(instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castro.nalberth_00) [![(instagram)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/nalberth-castro-1969a3239)
+    
+  ##   
+<div align="center">
+    <small>LABEX</small>
+</div>
     
     
