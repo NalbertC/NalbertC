@@ -34,15 +34,21 @@
     
 ![Snake animation](https://github.com/NalbertC/NalbertC/blob/output/github-contribution-grid-snake.svg)   
    
-  ##
+<!--   ## -->
     
-   ## Siga minhas redes sociais
+<!--    ## Siga minhas redes sociais
     
 [![(instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castro.nalberth_00) [![(instagram)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/nalberth-castro-1969a3239)
+   -->
+  ## 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=00D400FD&vCenter=true&lines=Obrigado+pela+visita+%F0%9F%91%8D)](https://git.io/typing-svg)
+  ##  
+       
+<div align="center" style="display: inline_block">
+ 
+<a href="https://instagram.com/castro.nalberth_00"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a>
+
     
-  ##   
-<div align="center">
-    <small>LABEX</small>
 </div>
     
     
