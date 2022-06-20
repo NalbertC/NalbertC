@@ -14,7 +14,7 @@
        
 ##
    
-## Tecnologias trabalhadas no meu dia a dia 
+## Tecnologias usadas no meu dia a dia 
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/NalbertC/codigos-ED-em-C"><img align="center" alt="Nalberth-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>   
