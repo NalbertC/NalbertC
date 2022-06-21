@@ -48,9 +48,9 @@
 <div align="center" style="display: inline_block; font-size: 8px">
 Minhas redes:   
     
-<a href="https://instagram.com/castro.nalberth_00"><img height="30" alt="Instagram" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a> 
-<a href="http://ca.linkedin.com/in/nalberth-castro-1969a3239"><img alt="Linkedin" height="30"  src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1655722775~hmac=02eac3dc8e0e8a6bbd346db3816bafc8"></a>
-    
+[![(instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castro.nalberth_00) [![(instagram)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/nalberth-castro-1969a3239)    
+
+  
 </div>
     
     
