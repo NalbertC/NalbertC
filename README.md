@@ -46,7 +46,7 @@
   ##  
        
 <div align="center" style="display: inline_block; font-size: 8px">
-Minhas redes:   
+Acesse também minhas redes:   
     
 [![(instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castro.nalberth_00) [![(instagram)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/nalberth-castro-1969a3239)    
 
