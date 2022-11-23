@@ -27,13 +27,6 @@
    <img align="center" alt="Nalberth-node" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
    <img align="center" alt="Nalberth-node" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
-          
-   
-          
-
- 
-  
-    
 </div>
     
   ##  
