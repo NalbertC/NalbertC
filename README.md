@@ -8,8 +8,11 @@
 
 
  <div align="center">
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nalbertc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalbertC&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalbertC&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NalbertC&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 </div> 
