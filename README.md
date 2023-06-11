@@ -1,6 +1,6 @@
 ### Olá! Eu sou Nalberth <img alt="maozinha" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-- 🔭 Sou bolsista em <b>LABEX - LABoratório de programação EXtrema</b> ...
+<!-- - 🔭 Sou bolsista em <b>LABEX - LABoratório de programação EXtrema</b> ... -->
 <!-- - 🌱 Estou me aprofundando em Desenvolvimento Web ... -->
 - 😄 Meu objetivo é me aprofundar e atuar em Desenvolvimento Web Full-Stack ...
 
