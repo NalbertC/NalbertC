@@ -41,8 +41,7 @@
     
 ![Snake animation](https://github.com/NalbertC/NalbertC/blob/output/github-contribution-grid-snake.svg)   
  
-    
- 
+
   ## 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=00D400FD&vCenter=true&lines=Obrigado+pela+visita+%F0%9F%91%8D)](https://git.io/typing-svg)
     
