@@ -17,7 +17,6 @@
  <img align="center" alt="Nalberth-tailwind" height="50"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
  <img align="center" alt="Nalberth-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="Nalberth-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Nalberth-supabase" height="40" width="50" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
 </div>
 
 
